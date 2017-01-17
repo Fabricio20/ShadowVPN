@@ -13,6 +13,8 @@ For more details, [check here][Compare].
 ShadowVPN is currently beta and have much work to do. If you want a stable version, 
 please come by here a few months later.
 
+#### Note: This fork of clowwindy's ShadowVPN is a fork of the latest commit sent to master, no files were changed (this is a clean fork - use at your own risk).
+
 Install
 -------
 
